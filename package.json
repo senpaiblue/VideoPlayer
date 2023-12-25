@@ -1,0 +1,16 @@
+{
+  "name": "playbackend",
+  "version": "1.0.0",
+  "description": "building backend for VideoPlayer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "kitty"
+  ],
+  "author": "Sakcham Singh",
+  "license": "ISC"
+}
